@@ -670,7 +670,7 @@ All’interno della tab Generale impostare i seguenti parametri:
 
 - Tipo: Editor (text) 
 - Nome: orari 
-- Etichetta: Nome 
+- Etichetta: Orari 
 - Obbligatorio: Sì 
 - Usa in sottomodulo: Sì 
 - Mostra pulsanti: No 
